@@ -4,7 +4,7 @@ import smtplib
 import numpy
 import string
 
-url = 'https://bestlifeonline.com/dirty-jokes/'
+url = 'INSERT_URL'
 headers = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36'
 
 
